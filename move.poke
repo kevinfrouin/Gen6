@@ -63,7 +63,7 @@
 	{"name": "Bulk Up", "type": "FIGHTING", "category": "Status", "power": "0", "accuracy": "0", "pp": "20", "tm": "TM08", "probability": "0", "description": "Raises user's Attack and Defense."},
 	{"name": "Bulldoze", "type": "GROUND", "category": "Physical", "power": "60", "accuracy": "100", "pp": "20", "tm": "TM78", "probability": "100", "description": "Lowers opponent's Speed."},
 	{"name": "Bullet Punch", "type": "STEEL", "category": "Physical", "power": "40", "accuracy": "100", "pp": "30", "tm": "0", "probability": "0", "description": "User attacks first."},
-	{"name": "Bullet Seed", "type": "GRASS", "category": "Physical", "power": "25", "accuracy": "100", "pp": "30", "tm": "0", "probability": "0", "description": "Hits 205 times in one turn."},
+	{"name": "Bullet Seed", "type": "GRASS", "category": "Physical", "power": "25", "accuracy": "100", "pp": "30", "tm": "0", "probability": "0", "description": "Hits 2-5 times in one turn."},
 	{"name": "Calm Mind", "type": "PSYCHIC", "category": "Status", "power": "0", "accuracy": "0", "pp": "20", "tm": "TM04", "probability": "0", "description": "Raises user's Special Attack and Special Defense."},
 	{"name": "Camouflage", "type": "NORMAL", "category": "Status", "power": "0", "accuracy": "0", "pp": "20", "tm": "0", "probability": "0", "description": "Changes user's type according to the location."},
 	{"name": "Captivate", "type": "NORMAL", "category": "Status", "power": "0", "accuracy": "100", "pp": "20", "tm": "0", "probability": "0", "description": "Sharply lowers opponent's Special Attack if opposite gender."},
